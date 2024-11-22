@@ -30,7 +30,3 @@ Methods and Information Technologies of Big Data Processing course at V. N. Kara
 - Basic concepts
 - Practice
 
-# Technology Stack
-<div>
-  <img height="64" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
-</div>
